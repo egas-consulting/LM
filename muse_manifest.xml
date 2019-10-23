@@ -1,135 +1,264 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ligiamunteanu.com" resolutions="1x" timestamp="1568199352854">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Ligia.com" resolutions="1x" timestamp="1571863680370">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="395789672" ref="index"/>
+    <file name="site_global.css" crc="3795243609"/>
+    <file name="index.css" crc="141505345" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
   </folder>
   <folder name="images">
-    <file name="ligia_munteanu.gif" crc="4085180716" seo="true" ref="index">
+    <file name="gif_despre.gif" crc="137400913" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="ligia_munteanu_televiziune.gif" crc="109567641" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="gif_tv.gif" crc="4285010136" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ligia_munteanu_lifestyle.gif" crc="394235175" seo="true" ref="index">
+    <file name="gif_evenimente.gif" crc="3948658585" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ligia_munteanu_evenimente.gif" crc="400390447" seo="true" ref="index">
+    <file name="gif_palarii.gif" crc="53241177" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ligia_munteanu_despre_mine.gif" crc="239294391" seo="true" ref="index">
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="scroll-doar-sageti.gif" crc="4257815968" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_01.jpg" crc="3925863176" seo="true" ref="index">
+    <file name="despre_color_01.jpg" crc="4202203073" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_02.jpg" crc="3973988070" seo="true" ref="index">
+    <file name="despre_01.jpg" crc="4005315380" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_03.jpg" crc="4270457094" seo="true" ref="index">
+    <file name="despre_color_02.jpg" crc="196763942" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_04.jpg" crc="3967161371" seo="true" ref="index">
+    <file name="despre_02.jpg" crc="49473925" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_05.jpg" crc="4251000878" seo="true" ref="index">
+    <file name="despre_color_03.jpg" crc="458124772" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_06.jpg" crc="124780550" seo="true" ref="index">
+    <file name="despre_03.jpg" crc="114424353" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="e5656ac5-f7d1-42d4-9c27-8909c37f6b43_07.jpg" crc="4148385472" seo="true" ref="index">
+    <file name="despre_color_04.jpg" crc="157414585" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_01.jpg" crc="498929577" seo="true" ref="index">
+    <file name="despre_04.jpg" crc="515927290" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_02.jpg" crc="4014740376" seo="true" ref="index">
+    <file name="despre_color_05.jpg" crc="180903147" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_03.jpg" crc="4275294120" seo="true" ref="index">
+    <file name="despre_05.jpg" crc="3896928711" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_04.jpg" crc="3950901100" seo="true" ref="index">
+    <file name="televiziune_color_01.jpg" crc="294986708" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_05.jpg" crc="463658771" seo="true" ref="index">
+    <file name="televiziune_01.jpg" crc="444271225" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_06.jpg" crc="3829803552" seo="true" ref="index">
+    <file name="televiziune_color_02.jpg" crc="4045364385" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_07.jpg" crc="319396102" seo="true" ref="index">
+    <file name="televiziune_02.jpg" crc="3887174814" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eb57a797-ca53-4b77-acf4-19c79f550377_08.jpg" crc="4224868459" seo="true" ref="index">
+    <file name="televiziune_color_03.jpg" crc="3782945030" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_02.jpg" crc="4224487047" seo="true" ref="index">
+    <file name="televiziune_03.jpg" crc="196829947" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_03.jpg" crc="4056186135" seo="true" ref="index">
+    <file name="televiziune_color_04.jpg" crc="4205566457" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_04.jpg" crc="453737724" seo="true" ref="index">
+    <file name="televiziune_04.jpg" crc="3803912553" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_05.jpg" crc="4057356996" seo="true" ref="index">
+    <file name="televiziune_color_05.jpg" crc="171496775" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_06.jpg" crc="135660024" seo="true" ref="index">
+    <file name="televiziune_05.jpg" crc="220040922" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_07.jpg" crc="150311640" seo="true" ref="index">
+    <file name="evenimente_color_01.jpg" crc="340392703" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_08.jpg" crc="4107690007" seo="true" ref="index">
+    <file name="evenimente_01.jpg" crc="522841050" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_09.jpg" crc="176648980" seo="true" ref="index">
+    <file name="evenimente_color_02.jpg" crc="502291098" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bvb-(websize)-203_10.jpg" crc="4202453864" seo="true" ref="index">
+    <file name="evenimente_02.jpg" crc="3936663054" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_01.jpg" crc="139774446" seo="true" ref="index">
+    <file name="evenimente_color_03.jpg" crc="3962666093" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_02.jpg" crc="4085914493" seo="true" ref="index">
+    <file name="evenimente_03.jpg" crc="4009129091" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_03.jpg" crc="3898581174" seo="true" ref="index">
+    <file name="evenimente_color_04.jpg" crc="3938700178" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_04.jpg" crc="4210424734" seo="true" ref="index">
+    <file name="evenimente_04.jpg" crc="3802919646" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_05.jpg" crc="327306720" seo="true" ref="index">
+    <file name="evenimente_color_05.jpg" crc="4002472123" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_06.jpg" crc="3991621814" seo="true" ref="index">
+    <file name="evenimente_05.jpg" crc="3990748501" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_07.jpg" crc="4229764110" seo="true" ref="index">
+    <file name="jos-palaria_color_01.jpg" crc="518756894" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="patrat_rad_3383_08.jpg" crc="3899286120" seo="true" ref="index">
+    <file name="jos-palaria_01.jpg" crc="460056233" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_color_02.jpg" crc="4273281205" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_02.jpg" crc="4180995836" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_color_03.jpg" crc="534240930" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_03.jpg" crc="4068717393" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_color_04.jpg" crc="4056919604" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_04.jpg" crc="3981946149" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_color_05.jpg" crc="3773421128" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jos-palaria_05.jpg" crc="4213838347" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3992963194" seo="true" mt="1567789642806" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4245185642" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="1734208" seo="true" mt="1571861617328" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="531516853" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="446599116" seo="true" mt="1571863562654" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4121149633" seo="true" mt="1571861617369" redirect="true"/>
 </manifest>
